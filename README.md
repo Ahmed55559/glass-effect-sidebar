@@ -1,3 +1,3 @@
 # glass-effect-sidebar 
 
-### applying of some unusual css properties
+### applying of some unusual -for begginers- css properties
