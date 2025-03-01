@@ -1,3 +1,3 @@
-# glass-effect-sidebar 
+# glass-effect-sidebar
 
-### applying of some unusual -for begginers- css properties
+### glass effect sidebar with raw css & html from the styling to functionallity
